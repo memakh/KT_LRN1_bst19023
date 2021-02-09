@@ -1,3 +1,8 @@
 title: LRN1_Makhmutov
 goal: to acquire skills to work with version control using git
 task1: create a repository or clone an existing one
+task2
+task3
+task4
+task5
+task6
